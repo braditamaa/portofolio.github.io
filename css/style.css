@@ -36,6 +36,7 @@ body {
   background: var(--main-color);
 }
 .heading {
+  margin-top:20px;
   text-align: center;
 }
 .heading h2 {
@@ -534,4 +535,8 @@ form textarea {
   align-items: center;
   justify-content: center;
   background-color: #fff;
+}
+a {
+  text-decoration:none;
+  color: rgb(2, 166, 70);
 }
